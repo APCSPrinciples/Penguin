@@ -4,6 +4,6 @@ In this assignment you will write a program that displays a penguin or any other
 
 Samples of Student Work   
 -----------------------   
-[Nghi](https://trinket.io/embed/python/e826ad96b1?outputOnly=true&runOption=run&start=result)   
-[Raineh](https://trinket.io/embed/python/c5fd8cfff4?outputOnly=true&runOption=run&start=result)   
-[Crystal](https://trinket.io/embed/python/2e1ce469a7?outputOnly=true&runOption=run&start=result)   
+[Nghi](PenguinNghi.PNG)   
+[Raineh](PenguinRaineh.PNG)   
+[Crystal](CrystalPenguin.PNG)   
