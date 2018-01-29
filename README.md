@@ -11,6 +11,7 @@ Samples of Student Work
 [Freesia](FreesiaPenguin.PNG)	   
 [Jae](JaeUglyGuy.PNG)   
 [Jessie](JessieHippo.PNG)	   
+[Sophie](SophieAnimal.PNG)   
 [Kelly](KellyPenguin.PNG)   
 [Nghi](PenguinNghi.PNG)   
 [Raineh](PenguinRaineh.PNG)   
