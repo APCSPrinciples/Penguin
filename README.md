@@ -8,7 +8,7 @@ Samples of Student Work
 [Justin](JustinMonkey.PNG)   
 [Jackson](JacksonCat.PNG)   
 [David](DavidCat.PNG)	   
-[Freesia](FreesiaPenguin.PNG)	 
+[Freesia](FreesiaPenguin.PNG)	   
 [Jae](JaeUglyGuy.PNG)   
 [Jessie](JessieHippo.PNG)	   
 [Kelly](KellyPenguin.PNG)   
