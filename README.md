@@ -4,8 +4,12 @@ In this assignment you will write a program that displays a penguin or any other
 
 Samples of Student Work   
 -----------------------   
+[Katherine](KatherineAnimal.PNG)   
+[Justin](JustinMonkey.PNG)   
+[Jackson](JacksonCat.PNG)   
 [David](DavidCat.PNG)	   
-[Freesia](FreesiaPenguin.PNG)	   
+[Freesia](FreesiaPenguin.PNG)	 
+[Jae](JaeUglyGuy.PNG)   
 [Jessie](JessieHippo.PNG)	   
 [Kelly](KellyPenguin.PNG)   
 [Nghi](PenguinNghi.PNG)   
