@@ -6,7 +6,7 @@ Samples of Student Work
 -----------------------   
 [Kristin](KristinAlien.PNG)   
 [Andrew](AndrewPig.PNG)   
-[Katherine](KatherineAnimal.PNG)   
+[Katherine](KatherineAnimal.PNG)    
 [Justin](JustinMonkey.PNG)   
 [Jackson](JacksonCat.PNG)   
 [David](DavidCat.PNG)	   
